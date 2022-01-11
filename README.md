@@ -2,7 +2,7 @@
 
 #### estudande de desenvolvimento web na Trybe
 Procuro minha primeira oportunidade de trabalho como desenvolvedor Junior FullStack.
-Meu objetivo e adiquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida
+Meu objetivo é adquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida
 na área pela qual eu me apaixonei desde o prímeiro contato
 
 - ⚡ Meus hobbies: cerveja com os amigos, jogos, tocar guitarra!
