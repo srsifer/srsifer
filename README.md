@@ -27,7 +27,7 @@ na área pela qual eu me apaixonei desde o prímeiro contato
 
 <br />
 
-### 🔧 Languages and Tools:
+### 🔧 Linguagens & Ferramentas:
 
 <table>
    <tr>
