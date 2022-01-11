@@ -1,6 +1,9 @@
 ## Olá, eu sou Igor Fernandes 👨‍💻
 
 #### estudande de desenvolvimento web na Trybe
+Procuro minha primeira oportunidade de trabalho como desenvolvedor Junior FullStack e contribuir com meus conhecimentos ao meus contratantes. Estudo Desenvolvimento Web na Trybe e todos os dias me encanto com as possibilidades desta carreira.
+Meu objetivo e adiquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida
+na área pela qual eu me apaixonei desde o prímeiro contato
 
 <br />
 
@@ -15,7 +18,7 @@
       </td>
       <td>
          <a href="https://igor-fernandes.herokuapp.com/">
-            <img align="left" alt="React" width="35px"                                             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+            <img align="left" alt="React" width="33px"                                             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
            <p>Portifólio</p>
          </a>
       </td>
@@ -52,6 +55,8 @@
    </tr>
 </table>
 
+
+
 <br />
 
 ---
@@ -59,7 +64,7 @@
 ### 📈 Github Stats
 
 <div>
-  <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srsifer&show_icons=true&theme=radical"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=srsifer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 </div>
 
 <br />
