@@ -1,59 +1,47 @@
 ## Olá, eu sou Igor Fernandes 👨‍💻
 
 #### estudande de desenvolvimento web na Trybe
-Procuro minha primeira oportunidade de trabalho como desenvolvedor Junior FullStack e contribuir com meus conhecimentos ao meus contratantes. Estudo Desenvolvimento Web na Trybe e todos os dias me encanto com as possibilidades desta carreira.
+Procuro minha primeira oportunidade de trabalho como desenvolvedor Junior FullStack.
 Meu objetivo e adiquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida
 na área pela qual eu me apaixonei desde o prímeiro contato
+
+- ⚡ Meus hobbies: cerveja com os amigos, jogos, tocar guitarra!
 
 <br />
 
 ### 🌍 Vamos Nos conectar!
-
-<table>
-   <tr>
-      <td>
-         <a href="https://www.linkedin.com/in/sifer-igor-fernandes/">
-            <img align="left" alt="igor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-         </a>
-      </td>
-      <td>
-         <a href="https://igor-fernandes.herokuapp.com/">
-            <img align="left" alt="React" width="33px"                                             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-           <p>Portifólio</p>
-         </a>
-      </td>
-   </tr>
-</table>
+<a href="https://github.com/srsifer" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/sifer-igor-fernandes/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<a href="https://www.instagram.com/sr.sifer/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a>
 
 <br />
 
 ### 🔧 Linguagens & Ferramentas:
 
-<table>
-   <tr>
-      <td>
-         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      </td>
-      <td>
-         <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-      </td>
-      <td>
-         <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-      </td>
-      <td>
-         <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-      </td>
-      <td>
-         <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-      </td>
-      <td>
-         <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-      </td>
-      <td>
-         <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-      </td>
-   </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+</p>
 
 
 
