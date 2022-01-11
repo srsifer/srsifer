@@ -69,10 +69,9 @@ na área pela qual eu me apaixonei desde o prímeiro contato
 
 <br />
 
-[linkedin]: https://linkedin.com/in/shettykaran21
-[portifólio]: https://igor-fernandes.herokuapp.com/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsifer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/srsifer/github-readme-stats)
 
-<br />
+
 <br />
 
 ⭐️From [srsifer](https://github.com/srsifer)
