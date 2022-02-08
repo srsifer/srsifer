@@ -7,7 +7,7 @@ na área pela qual eu me apaixonei desde o primeiro contato
 
 - ⚡ Meus hobbies: cerveja com os amigos, jogos e tocar guitarra!
 
-- PS: Amo conhecer pessoas e lugares
+- PS:  Amo conhecer pessoas e lugares
 
 <br />
 
