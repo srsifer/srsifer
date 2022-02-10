@@ -5,6 +5,8 @@ Procuro minha primeira oportunidade de trabalho como desenvolvedor Junior FullSt
 Meu objetivo é adquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida
 na área pela qual eu me apaixonei desde o primeiro contato
 
+OBS! Meus projetos pessoais estão privados pois estou contruindos as documentaçoes (16 Repositorios no total tanto front-end quanto back-end)
+
 - ⚡ Meus hobbies: cerveja com os amigos, jogos e tocar guitarra!
 
 - PS:  Amo conhecer pessoas e lugares
