@@ -1,11 +1,9 @@
 ## Olá, eu sou Igor Fernandes 👨‍💻
 
 #### estudande de desenvolvimento web na Trybe
-Procuro minha primeira oportunidade de trabalho como desenvolvedor Junior FullStack.
-Meu objetivo é adquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida
-na área pela qual eu me apaixonei desde o primeiro contato
+Procuro minha primeira oportunidade de trabalho como desenvolvedor Júnior FullStack. Meu objetivo é adquirir conhecimentos em desenvolvimento de software e construir uma carreira sólida na área pela qual eu me apaixonei desde o primeiro contato.
 
-OBS! Meus projetos pessoais estão prívados pois estou contruindos as documentaçoes (16 Repositorios no total tanto front-end quanto back-end)
+OBS! Alguns dos Meus projetos pessoais estão privados, pois, estou construindo as documentações.
 
 - ⚡ Meus hobbies: cerveja com os amigos, jogos e tocar guitarra!
 
