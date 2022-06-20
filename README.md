@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Procuro minha primeira oportunidade de trabalho como desenvolvedor Júnior. <br><br>Meu ponto forte no trabalho em equipe é a comunicação empatica e bem humorada, prezo muito pela transparencia e responsabilidade. <br>tomo a lideraça em asuntos que tenho maior dominio e me disponho a ensinar <br><br>Amo conhecer novas pessoas, culturas e lugares. sempre vou lhe oferecer o melhor de mim<br><br>"E se você perdesse tudo, sobraria algo pra te adimirar ?"</p>
+<p align="left">Procuro minha primeira oportunidade de trabalho como desenvolvedor Júnior. <br><br>Meu ponto forte no trabalho em equipe é a comunicação empática e bem humorada, prezo muito pela transparência e responsabilidade. <br>assumo a liderança em assuntos que tenho maior domínio e me disponho a ensinar <br><br>Amo conhecer novas pessoas, culturas e lugares. sempre vou lhe oferecer o melhor de mim<br><br>"E se você perdesse tudo, sobraria algo pra te admirar ?"</p>
 
 ###
 
