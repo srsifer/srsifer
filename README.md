@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/srsifer/srsifer/blob/output/snake.svg" alt="Snake animation" />
+![https://github.com/srsifer/srsifer/blob/output/snake.svg.svg#gh-dark-mode-only](https://raw.githubusercontent.com/srsifer/srsifer/output/snake.svg)
 
 ###
 
